@@ -9,6 +9,6 @@ App coded in Flutter to talk to RightNow API
 - Reply to incidents
 
 ## Pictures
-<img src="https://i.imgur.com/wbCud8T.jpg" />
-<img src="https://i.imgur.com/0BUeZno.jpg" />
-<img src="https://i.imgur.com/yrOSryJ.jpg" />
+<img src="https://i.imgur.com/wbCud8T.jpg" width="300" height="666"/>
+<img src="https://i.imgur.com/0BUeZno.jpg" width="300" height="666"/>
+<img src="https://i.imgur.com/yrOSryJ.jpg" width="300" height="666"/>

@@ -1,17 +1,14 @@
-# hello_world
+# RNFlutter
 
-A new Flutter project.
+App coded in Flutter to talk to RightNow API
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Read Incidents
+- Update incidents
+- Reply to incidents
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# RNFlutter" 
+## Pictures
+<img src="https://i.imgur.com/wbCud8T.jpg" />
+<img src="https://i.imgur.com/0BUeZno.jpg" />
+<img src="https://i.imgur.com/yrOSryJ.jpg" />

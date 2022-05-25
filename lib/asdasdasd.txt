@@ -1,0 +1,700 @@
+{
+    "serviceCategories":[
+        {
+            "id": 7,
+            "lookUpName": "Accounts payable ledger",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/7"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "lookUpName": "Jeeves ERP Application",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/6"
+                }
+            ]
+        },
+      
+      {
+            "id": 30,
+            "lookUpName": "Jeeves ERP Other",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/30"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "lookUpName": "Accounts receivable ledger",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/8"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "lookUpName": "Advanced inventory",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/9"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "lookUpName": "Attendance and shop floor",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/10"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "lookUpName": "Conversion",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/11"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "lookUpName": "CRM",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/12"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "lookUpName": "e-Approval",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/13"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "lookUpName": "e-Sales",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/15"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "lookUpName": "EDI",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/16"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "lookUpName": "EDM / Document management",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/17"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "lookUpName": "Fixed assets ledger",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/18"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "lookUpName": "General ledger",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/19"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "lookUpName": "ICT",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/20"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "lookUpName": "Inventory",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/21"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "lookUpName": "Multi company handling",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/22"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "lookUpName": "Production",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/23"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "lookUpName": "Purchases",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/24"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "lookUpName": "Report generator matrix",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/25"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "lookUpName": "Sales",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/26"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "lookUpName": "Service",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/27"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "lookUpName": "Time, projects, assignments",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/28"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "lookUpName": "Documentation",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/31"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "lookUpName": "Documentation, technology",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/32"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "lookUpName": "Language management",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/33"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "lookUpName": "Jeeves ERP Technical",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/34"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "lookUpName": "Installation",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/37"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "lookUpName": "Apps builder",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/39"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "lookUpName": "Astro WMS integration",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/40"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "lookUpName": "Crystal report",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/41"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "lookUpName": "Sales",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/47"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "lookUpName": "Other",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/112"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "lookUpName": "Variant managment",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/117"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "lookUpName": "Workflow",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/118"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "lookUpName": "Insight",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/120"
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "lookUpName": "Jeeves business intelligence",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/121"
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "lookUpName": "Jeeves business control",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/122"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "lookUpName": "Jeeves graphical planning",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/123"
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "lookUpName": "Security manager",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/126"
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "lookUpName": "TA integration (Transport administration)",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/127"
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "lookUpName": "Jeeves service builder",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/129"
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "lookUpName": "Macro programming",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/130"
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "lookUpName": "MS Office integration",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/131"
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "lookUpName": "Net kernel",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/132"
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "lookUpName": "Own development",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/133"
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "lookUpName": "Performance",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/134"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "lookUpName": "Printing issues",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/135"
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "lookUpName": "Servers, network",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/137"
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "lookUpName": "Site repository settings",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/138"
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "lookUpName": "Template editor",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/139"
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "lookUpName": "XML adapter",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/140"
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "lookUpName": "License handling",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/141"
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "lookUpName": "Partner web",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/142"
+                }
+            ]
+        },
+        {
+            "id": 143,
+            "lookUpName": "Template companies",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/143"
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "lookUpName": "Other",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/144"
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "lookUpName": "e-Invoicing (Pagero)",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/151"
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "lookUpName": "Easy WMS",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/153"
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "lookUpName": "Cloud infrastructure issue",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/154"
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "lookUpName": "Remote Connection issues",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/155"
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "lookUpName": "RightNow issues or questions",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/156"
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "lookUpName": "Mobility",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/158"
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "lookUpName": "Desktop Client",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/159"
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "lookUpName": "Product Configurator",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/160"
+                }
+            ]
+        },
+        {
+            "id": 161,
+            "lookUpName": "Reporting service",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/161"
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "lookUpName": "EazyStock",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/162"
+                }
+            ]
+        },
+        {
+            "id": 163,
+            "lookUpName": "Jeeves Intrum integration",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/163"
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "lookUpName": "EQ Plan",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/164"
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "lookUpName": "LogTrade",
+            "links": [
+                {
+                    "rel": "canonical",
+                    "href": "https://jeeves.custhelp.com/services/rest/connect/v1.3/serviceCategories/165"
+                }
+            ]
+        },
+      {
+            "lookUpName": "-NULL-",
+            "id": 9932
+        }
+    ]
+
+}

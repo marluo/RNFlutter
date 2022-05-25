@@ -1,0 +1,136 @@
+{
+    "kernelversion": [
+    {
+        "lookUpName": "Other",
+        "id": 109
+    },
+    {
+        "lookUpName": "Older",
+        "id": 1113
+    },
+    {
+        "lookUpName": "2.0.7",
+        "id": 100
+    },
+    {
+        "lookUpName": "2.3",
+        "id": "95"
+    },
+    {
+        "lookUpName": "2.3.1",
+        "id": "94"
+    },
+    {
+        "lookUpName": "2.3.2",
+        "id": "93"
+    },
+    {
+        "lookUpName": "2.3.3",
+        "id": "92"
+    },
+    {
+        "lookUpName": "3.0.0",
+        "id": "91"
+    },
+    {
+        "lookUpName": "3.0.1",
+        "id": "90"
+    },
+    {
+        "lookUpName": "3.0.2",
+        "id": "89"
+    },
+    {
+        "lookUpName": "3.0.3",
+        "id": "88"
+    },
+    {
+        "lookUpName": "3.0.4",
+        "id": "87"
+    },
+    {
+        "lookUpName": "3.5.0",
+        "id": "86"
+    },
+    {
+        "lookUpName": "3.5.1",
+        "id": "85"
+    },
+    {
+        "lookUpName": "3.5.2",
+        "id": "84"
+    },
+    {
+        "lookUpName": "3.5.3",
+        "id": "83"
+    },
+    {
+        "lookUpName": "3.5.4",
+        "id": "82"
+    },
+    {
+        "lookUpName": "4.0.0",
+        "id": "117"
+    },
+    {
+        "lookUpName": "4.0.1",
+        "id": "132"
+    },
+    {
+        "lookUpName": "4.0.2",
+        "id": "163"
+    },
+    {
+        "lookUpName": "4.0.3",
+        "id": "446"
+    },
+    {
+        "lookUpName": "4.0.4",
+        "id": "623"
+    },
+    {
+        "lookUpName": "5.0 R1",
+        "id": "426"
+    },
+    {
+        "lookUpName": "5.0 R2",
+        "id": "491"
+    },
+    {
+        "lookUpName": "5.0 R3",
+        "id": "516"
+    },
+    {
+        "lookUpName": "5.0 R4",
+        "id": "553"
+    },
+    {
+        "lookUpName": "5.1 R1",
+        "id": "609"
+    },
+    {
+        "lookUpName": "5.1 R2",
+        "id": "624"
+    },
+    {
+        "lookUpName": "5.1 R3",
+        "id": "1135"
+    },
+    {
+        "lookUpName": "5.1 R4",
+        "id": "947"
+    },
+    {
+        "lookUpName": "5.1 R5",
+        "id": "1208"
+    },
+	{
+        "lookUpName": "5.1 R6",
+        "id": "1296"
+    },
+    {
+        "lookUpName": "5.1 R7",
+        "id": "1226"
+    }
+]
+}

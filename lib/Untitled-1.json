@@ -1,0 +1,561 @@
+{
+                {
+                    "6",
+                    "Jeeves ERP Application"
+                },
+                {
+                    "7",
+                    "Accounts payable ledger"
+                },
+                {
+                    "8",
+                    "Accounts receivable ledger"
+                },
+                {
+                    "9",
+                    "Advanced inventory"
+                },
+                {
+                    "10",
+                    "Attendance and shop floor"
+                },
+                {
+                    "11",
+                    "Conversion"
+                },
+                {
+                    "12",
+                    "CRM"
+                },
+                {
+                    "13",
+                    "e-Approval"
+                },
+                {
+                    "14",
+                    "e-Commerce"
+                },
+                {
+                    "15",
+                    "e-Sales"
+                },
+                {
+                    "16",
+                    "EDI"
+                },
+                {
+                    "17",
+                    "EDM / Document management"
+                },
+                {
+                    "18",
+                    "Fixed assets ledger"
+                },
+                {
+                    "19",
+                    "General ledger"
+                },
+                {
+                    "20",
+                    "ICT"
+                },
+                {
+                    "21",
+                    "Inventory"
+                },
+                {
+                    "22",
+                    "Multi company handling"
+                },
+                {
+                    "23",
+                    "Production"
+                },
+                {
+                    "24",
+                    "Purchases"
+                },
+                {
+                    "25",
+                    "Report generator matrix"
+                },
+                {
+                    "26",
+                    "Sales"
+                },
+                {
+                    "27",
+                    "Service"
+                },
+                {
+                    "28",
+                    "Time, projects, assignments"
+                },
+                {
+                    "30",
+                    "Jeeves ERP Other"
+                },
+                {
+                    "31",
+                    "Documentation"
+                },
+                {
+                    "32",
+                    "Documentation, technology"
+                },
+                {
+                    "33",
+                    "Language management"
+                },
+                {
+                    "34",
+                    "Jeeves ERP Technical"
+                },
+                {
+                    "35",
+                    "Batch timer"
+                },
+                {
+                    "36",
+                    "Database security module"
+                },
+                {
+                    "37",
+                    "Installation"
+                },
+                {
+                    "38",
+                    "Jeeves ERP Products"
+                },
+                {
+                    "39",
+                    "Apps builder"
+                },
+                {
+                    "40",
+                    "Astro WMS integration"
+                },
+                {
+                    "41",
+                    "Crystal report"
+                },
+                {
+                    "43",
+                    "General Ledger"
+                },
+                {
+                    "44",
+                    "Accounts Receivable"
+                },
+                {
+                    "45",
+                    "Item/Warehouse"
+                },
+                {
+                    "46",
+                    "Purchase"
+                },
+                {
+                    "47",
+                    "Sales"
+                },
+                {
+                    "48",
+                    "Statistics"
+                },
+                {
+                    "49",
+                    "Integration/Point of Sale/e-commerce"
+                },
+                {
+                    "50",
+                    "Technical"
+                },
+                {
+                    "52",
+                    "Microsoft Dynamics CRM"
+                },
+                {
+                    "53",
+                    "System"
+                },
+                {
+                    "54",
+                    "Admin"
+                },
+                {
+                    "55",
+                    "Verktyg"
+                },
+                {
+                    "56",
+                    "Grunddata"
+                },
+                {
+                    "57",
+                    "Underhåll"
+                },
+                {
+                    "58",
+                    "Övrigt"
+                },
+                {
+                    "59",
+                    "Försäljning"
+                },
+                {
+                    "60",
+                    "Kund"
+                },
+                {
+                    "61",
+                    "Artikel"
+                },
+                {
+                    "62",
+                    "Order"
+                },
+                {
+                    "63",
+                    "Butik"
+                },
+                {
+                    "64",
+                    "Prishantering"
+                },
+                {
+                    "65",
+                    "Övrigt"
+                },
+                {
+                    "66",
+                    "Lager"
+                },
+                {
+                    "67",
+                    "In/Utleverans"
+                },
+                {
+                    "68",
+                    "Inventering"
+                },
+                {
+                    "69",
+                    "Flerlager"
+                },
+                {
+                    "70",
+                    "Lagervärdering"
+                },
+                {
+                    "71",
+                    "Övrigt"
+                },
+                {
+                    "72",
+                    "Inköp"
+                },
+                {
+                    "73",
+                    "Leverantör"
+                },
+                {
+                    "74",
+                    "Inköp"
+                },
+                {
+                    "75",
+                    "Artikel"
+                },
+                {
+                    "76",
+                    "Övrigt"
+                },
+                {
+                    "77",
+                    "MPS"
+                },
+                {
+                    "78",
+                    "Beredning"
+                },
+                {
+                    "79",
+                    "Planering"
+                },
+                {
+                    "81",
+                    "Övrigt"
+                },
+                {
+                    "82",
+                    "Ekonomi"
+                },
+                {
+                    "83",
+                    "Leverantörsreskontra"
+                },
+                {
+                    "84",
+                    "Kundreskontra"
+                },
+                {
+                    "85",
+                    "Redovisning"
+                },
+                {
+                    "86",
+                    "Kontoplan"
+                },
+                {
+                    "87",
+                    "Anläggningsregister"
+                },
+                {
+                    "88",
+                    "Övrigt"
+                },
+                {
+                    "89",
+                    "Personal"
+                },
+                {
+                    "90",
+                    "In/Utstämpling"
+                },
+                {
+                    "91",
+                    "Schema"
+                },
+                {
+                    "92",
+                    "Grunduppgifter"
+                },
+                {
+                    "93",
+                    "Övrigt"
+                },
+                {
+                    "94",
+                    "Övrigt"
+                },
+                {
+                    "101",
+                    "Felmeddelande"
+                },
+                {
+                    "102",
+                    "Installation"
+                },
+                {
+                    "103",
+                    "Plattform"
+                },
+                {
+                    "104",
+                    "Övrigt"
+                },
+                {
+                    "108",
+                    "Tidrapportering"
+                },
+                {
+                    "110",
+                    "Løsning 1 Application"
+                },
+                {
+                    "111",
+                    "Accounts Payable"
+                },
+                {
+                    "112",
+                    "Other"
+                },
+                {
+                    "113",
+                    "**********JeevesERP Categories"
+                },
+                {
+                    "114",
+                    "**********Garp Categories"
+                },
+                {
+                    "115",
+                    "**********L1 Categories"
+                },
+                {
+                    "116",
+                    "**********CRM Categories"
+                },
+                {
+                    "117",
+                    "Variant managment"
+                },
+                {
+                    "118",
+                    "Workflow"
+                },
+                {
+                    "119",
+                    "Insight design client"
+                },
+                {
+                    "120",
+                    "Insight"
+                },
+                {
+                    "121",
+                    "Jeeves business intelligence"
+                },
+                {
+                    "122",
+                    "Jeeves business control"
+                },
+                {
+                    "123",
+                    "Jeeves graphical planning"
+                },
+                {
+                    "124",
+                    "Process modeler"
+                },
+                {
+                    "125",
+                    "Quality control"
+                },
+                {
+                    "126",
+                    "Security manager"
+                },
+                {
+                    "127",
+                    "TA integration (Transport administration)"
+                },
+                {
+                    "128",
+                    "Jeeves message integrator (JMI)"
+                },
+                {
+                    "129",
+                    "Jeeves service builder"
+                },
+                {
+                    "130",
+                    "Macro programming"
+                },
+                {
+                    "131",
+                    "MS Office integration"
+                },
+                {
+                    "132",
+                    "Net kernel"
+                },
+                {
+                    "133",
+                    "Own development"
+                },
+                {
+                    "134",
+                    "Performance"
+                },
+                {
+                    "135",
+                    "Printing issues"
+                },
+                {
+                    "137",
+                    "Servers, network"
+                },
+                {
+                    "138",
+                    "Site repository settings"
+                },
+                {
+                    "139",
+                    "Template editor"
+                },
+                {
+                    "140",
+                    "XML adapter"
+                },
+                {
+                    "141",
+                    "License handling"
+                },
+                {
+                    "142",
+                    "Partner web"
+                },
+                {
+                    "143",
+                    "Template companies"
+                },
+                {
+                    "144",
+                    "Other"
+                },
+                {
+                    "149",
+                    "Licens"
+                },
+                {
+                    "151",
+                    "e-Invoicing (Pagero)"
+                },
+                {
+                    "152",
+                    "Version"
+                },
+                {
+                    "153",
+                    "Easy WMS"
+                },
+                {
+                    "154",
+                    "Cloud infrastructure issue"
+                },
+                {
+                    "155",
+                    "Remote Connection issues"
+                },
+                {
+                    "156",
+                    "RightNow issues or questions"
+                },
+                {
+                    "158",
+                    "Mobility"
+                },
+                {
+                    "159",
+                    "Desktop Client"
+                },
+                {
+                    "160",
+                    "Product Configurator"
+                },
+                {
+                    "161",
+                    "Reporting service"
+                },
+                {
+                    "162",
+                    "EazyStock"
+                },
+                {
+                    "163",
+                    "Jeeves Intrum integration"
+                },
+                {
+                    "164",
+                    "EQ Plan"
+                },
+                {
+                    "165",
+                    "LogTrade"
+                },
+                {
+                    "166",
+                    "e-Invoicing (Opto)"
+                }
